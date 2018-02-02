@@ -2,7 +2,7 @@
     "name": "mhmoudsami/ar-php-time",
     "description": "backup repo for deleted alhoqbani/ar-php-time repo , Time related classes from Khaled Al-Sham'aa's ar-php Library",
     "type": "library",
-    "keywords": [ "ar-php", "Arabic", "hijri calendar", "islamic calendar", "time", "calendar" , "alhoqbani/ar-php-time"],
+    "keywords": [ "ar-php", "Arabic", "hijri calendar", "islamic calendar", "time", "calendar" , "alhoqbani-ar-php-time"],
     "license": "LGPL-3.0-only",
     "homepage": "https://github.com/mhmoudsami/ar-php-time",
     "authors": [
