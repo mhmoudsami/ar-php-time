@@ -3,7 +3,7 @@
 
 
 ## Installation 
-`composer require alhoqbani/ar-time`
+`composer require mhmoudsami/ar-php-time`
 ## Usage
 ### Date in Arabic
 ```
